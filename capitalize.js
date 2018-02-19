@@ -16,4 +16,5 @@ console.log(output);
 // line 3: we take the first letter of the word and make it upcase.
 // line 3: then we add to it the lest of word
 // line 4: we join it all with whitespaces.
+
  
